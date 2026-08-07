@@ -1,5 +1,6 @@
 # K8OpenShiftMadeEasy
-This Pro Tool Automate your Repitative K8/OpenShift Jobs: Makes life Easy
+This Pro Tool Automate your Repitative K8/OpenShift Jobs: Makes life Easy. 
+
 Buy Now by Clicking below Link: (Its Life  Time Licesned, No Subscription Cycles)
 https://complementary8.gumroad.com/l/K8OpenShiftMadeEasy
 
