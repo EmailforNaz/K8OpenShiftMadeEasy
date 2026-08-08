@@ -4,6 +4,15 @@ This Pro Tool Automate your Repitative K8/OpenShift Jobs: Makes life Easy.
 Buy Now (Promo Price 19$) : by Clicking below Link: (Its Life  Time Licesned, No Subscription Cycles)
 https://complementary8.gumroad.com/l/K8OpenShiftMadeEasy
 
+Additional details
+
+Kubernetes YAML Studio — Deployment, Service, ConfigMap, Secret, PVC generators
+OpenShift Route generator with TLS support
+YAML Validator — catches security & resource mistakes instantly
+Docker Assistant — secure Dockerfile generation + validation
+Troubleshooting Assistant — diagnose CrashLoopBackOff, OOMKilled, and more
+100% offline after activation — nothing you generate ever leaves your PC
+
 
 K8OpenShiftMadeEasy v1.0 — Quick Start
 ========================================
